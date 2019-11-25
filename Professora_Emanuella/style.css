@@ -8,7 +8,11 @@ body{
     align-items: center;
     font-family: consolas;
 }
-
+.tes{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
 .container{
     width: 1000px;
     position: relative;
